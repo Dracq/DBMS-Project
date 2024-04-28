@@ -1,5 +1,5 @@
-## Real Estate Management System
-# Introduction
+# Real Estate Management System
+## Introduction
 Introducing our user-friendly PHP property management system, designed to simplify sales
 and rentals. This platform stores vital information on properties, buyers, sellers, agents,
 and builders. With an easy-to-use interface and admin panel, users can register and search
@@ -10,7 +10,7 @@ alongside property descriptions. With its simplicity and efficiency, our PHP sys
 revolutionizes property management, making transactions smoother for everyone involved
 in the process.
 
-# Objectives:
+## Objectives:
 ● Develop a PHP-based property management system for sales and rentals,
 focusing on streamlining operations related to properties, buyers, sellers,
 agents, and builders.
@@ -24,7 +24,7 @@ property descriptions to streamline communication and transactions.
 
 
 
-# Features:
+## Features:
 ● Admin Panel:
 An administrator has full control over the system. He/she can manage all the users,
 states and cities, properties, and so on. Here, each and every section has its own
